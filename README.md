@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m Abhishek Ruby, a passionate Full Stack Developer with expertise in building efficient backends using Django and crafting seamless user interfaces with React and Next.js.<br><br>💻 Tech Stack:<br><br>Backend: Django, REST API, GraphQL, Redis, Celery<br>Frontend: React, Next.js, Tailwind CSS<br>Tools: Docker, PostgreSQL, Git<br>🚀 I love solving challenges, designing scalable solutions, and working on real-world projects. Some areas I’ve worked on include:<br><br>Scalable APIs and real-time features<br>Payment gateway and third-party integrations<br>Asynchronous task management<br>🌱 Currently exploring: Advanced backend architectures and cloud-native technologies.<br><br>✨ Let’s Collaborate: Always open to learning and contributing to impactful projects!
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abhishek__ruby/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishekruby/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/abhishek_ruby/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@abhishek_ruby) 
 

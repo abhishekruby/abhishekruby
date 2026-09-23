@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-  <a href="https://abhishekruby.dev">
+  <a href="https://abhishekruby.vercel.app/">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=44B78B&center=true&vCenter=true&width=640&lines=Django+and+DRF+APIs+serving+100k%2B+requests+a+day;Real-time+systems+with+Channels%2C+WebSockets+and+Redis;PostgreSQL+tuning%2C+Celery+queues%2C+Docker+on+AWS;Node.js+and+Next.js+when+the+product+needs+it" alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://abhishekruby.dev"><img src="https://img.shields.io/badge/Portfolio-abhishekruby.dev-0C4B33?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://abhishekruby.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-abhishekruby.dev-0C4B33?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abhishekruby"><img src="https://img.shields.io/badge/LinkedIn-abhishekruby-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:abhishekruby94@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-44B78B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>

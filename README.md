@@ -1,23 +1,79 @@
-# 💫 About Me:
-👋 Hi, I’m Abhishek Ruby, a passionate Full Stack Developer with expertise in building efficient backends using Django and crafting seamless user interfaces with React and Next.js.<br><br>🚀 I love solving challenges, designing scalable solutions, and working on real-world projects. Some areas I’ve worked on include:<br><ul><li> Scalable APIs and real-time features</li><li> Payment gateway and third-party integrations</li><li> Asynchronous task management </li></ul>🌱 Currently exploring: Advanced backend architectures and cloud-native technologies.<br><br>✨ Let’s Collaborate: Always open to learning and contributing to impactful projects!
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C4B33,100:44B78B&height=220&section=header&text=Abhishek%20Ruby&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%7C%20Python%20and%20Django&descAlignY=58&descSize=18" alt="Abhishek Ruby" width="100%" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abhishek__ruby/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishekruby/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/abhishek_ruby/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@abhishek_ruby) 
+<p align="center">
+  <a href="https://abhishekruby.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=44B78B&center=true&vCenter=true&width=640&lines=Django+and+DRF+APIs+serving+100k%2B+requests+a+day;Real-time+systems+with+Channels%2C+WebSockets+and+Redis;PostgreSQL+tuning%2C+Celery+queues%2C+Docker+on+AWS;Node.js+and+Next.js+when+the+product+needs+it" alt="Typing intro" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhishekruby&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhishekruby&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekruby&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://abhishekruby.dev"><img src="https://img.shields.io/badge/Portfolio-abhishekruby.dev-0C4B33?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhishekruby"><img src="https://img.shields.io/badge/LinkedIn-abhishekruby-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abhishekruby94@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-44B78B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abhishekruby&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+<br />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## About
 
----
-[![](https://visitcount.itsvg.in/api?id=abhishekruby&icon=0&color=2)](https://visitcount.itsvg.in)
+I'm a backend engineer based in India. Most of my work is Python and Django: REST APIs, real-time features, background jobs and the PostgreSQL work that keeps them fast. I also build on Node.js, NestJS and Next.js when a product needs it.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- At **Steyp** I worked on the Django backend for an e-learning platform that served 10,000+ concurrent users and 100,000+ API requests a day.
+- Built real-time features with **Django Channels, WebSockets and Redis Pub/Sub**, and brought backend latency down by about 30%.
+- Tuned **PostgreSQL** queries on the same system, improving query performance by around 40%.
+- Since 2024 I've shipped multi-tenant apps with approval workflows for freelance clients, deployed through **GitHub Actions**, with sub-second responses on high-traffic APIs and 99.9% uptime.
+- Recently led a four-person team at **Enacle Infotech** on NestJS and Next.js products, covering architecture, sprint planning and code reviews.
+- Building **UllageCloud**, an ERP for downstream petroleum logistics.
+
+**Open to** backend and full-stack Python roles in Bengaluru, other Indian tech hubs, or remote.
+
+<br />
+
+## Tech I work with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,aws,nginx,linux,githubactions,nodejs,nestjs,nextjs,react,ts,mongodb&perline=8" alt="Tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django%20Channels-0C4B33?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+</p>
+
+<br />
+
+## Selected work
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [linkedin-post-scheduler](https://github.com/abhishekruby/linkedin-post-scheduler) | Schedules LinkedIn posts through OAuth, with a priority queue, automatic retries and an admin panel | Django, PostgreSQL, Redis, Next.js |
+| [busybusyAutomation](https://github.com/abhishekruby/busybusyAutomation) | FastAPI middleware over the BusyBusy GraphQL API. Exposes projects, budgets, employees, cost codes and equipment as simple REST endpoints | Python, FastAPI, Redis |
+| [portfolio-backend](https://github.com/abhishekruby/portfolio-backend) | Django and GraphQL API that serves the content for my portfolio site | Django, PostgreSQL, GraphQL |
+| [portfolio](https://github.com/abhishekruby/portfolio) | Source for abhishekruby.dev | Next.js, TypeScript |
+
+<br />
+
+## Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abhishekruby&theme=transparent&hide_border=true&ring=44B78B&fire=44B78B&currStreakLabel=44B78B&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekruby/abhishekruby/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishekruby/abhishekruby/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/abhishekruby/abhishekruby/output/github-snake.svg" />
+  </picture>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:44B78B,100:0C4B33&height=110&section=footer" width="100%" />
+</p>
